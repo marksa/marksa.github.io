@@ -1,0 +1,77 @@
+.header .logo{
+    background: url('../images/logo.svg');
+}
+
+
+.z2 .hd{
+    background: -moz-linear-gradient(90deg, #f3f3f3, #fafcfc);
+    background: -webkit-linear-gradient(90deg, #f3f3f3, #fafcfc);
+    background: -o-linear-gradient(90deg, #f3f3f3, #fafcfc);
+}
+
+.slogo {
+    background: url('../images/baidu.svg');
+}
+
+/* Z1 logos */
+
+#z11{
+    background: url('../images/z1-1.svg');
+    text-indent: -200%;
+}
+
+#z12{
+    background: #222;
+
+}
+#z12 a{
+    color: #82CE05;
+}
+
+#z13{
+    background: url('../images/z1-3.svg');
+    text-indent: -200%;
+}
+
+#z14{
+    background: url('../images/z1-4.svg');
+    text-indent: -200%;
+}
+
+#z17{
+    background: url('../images/z1-7.svg');
+    text-indent: -200%;
+}
+
+#z110{
+    background: url('../images/z1-10.svg');
+    text-indent: -200%;
+}
+
+#z15{
+    background: url("../images/z1-5.svg");
+    text-indent: -200%;
+}
+
+#z12{
+    background: url("../images/z1-2.svg");
+    text-indent: -200%;
+}
+
+#z16{
+    background: url("../images/z1-6.svg");
+    background-color: #030F14;
+    text-indent: -200%;
+}
+
+#z19{
+    background: url("../images/z1-9.svg");
+    background-color: #E6E7E8;
+    text-indent: -200%;
+}
+
+#z18{
+    background: url("../images/z1-8.svg");
+    background-color: #E6E7E8;
+    text-indent: -200%;
+}
